@@ -1,0 +1,14 @@
+.PostDetails {
+    text-align: center;
+}
+
+.box {
+    height: 100;
+    display: "flex";
+    border: "1px solid black";
+    padding: 8
+}
+.topLeftBox {
+    justify-content: "flex-start";
+    align-items: "flex-start"
+}
