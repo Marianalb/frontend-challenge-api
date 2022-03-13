@@ -3,7 +3,6 @@ import PostDetails from "./PostDetails";
 import { BrowserRouter as Router } from 'react-router-dom';
 import { act } from 'react-dom/test-utils';
 import { screen } from '@testing-library/react';
-import fetchMock , { mockResponses } from 'jest-fetch-mock';
 
 describe('Post details tests', () => {
 	let container = null;

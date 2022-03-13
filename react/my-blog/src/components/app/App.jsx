@@ -8,6 +8,9 @@ import {
   Route
 } from "react-router-dom";
 
+/**
+ * Root component
+ */
 function App() {
   return (
     <div className="App">
